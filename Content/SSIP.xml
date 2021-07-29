@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ssip_releases>
+  <ssip_release 
+	  
+	  VersionNumber = "1.0" 
+				
+	  ReleaseNumber ="3.0.5.1"  
+	  
+	  BuildNumber = "1.0.0.7"
+				
+	  Date ="July 6, 2021" 
+				
+	  DLLPath = "\\mipfile\Code_Promotion\DODTR\API"
+				
+	  DLLs = "DoDTRServices.dll,DoDTRModels.dll"
+	  
+	  Project = "Ex: QPP"
+				
+	  WSPInstructions="Upload and activate new WSP(s) under DoDTR_1.0.0.7.wsp from TFS Drop: \\mipsaptfsu01\TFSDrop\DoDTR Master\1.0.0.0\1.0.0.7"
+				
+	  SVC="No"
+				
+	  WebConfig="No"
+				
+	  Database="Yes"
+				
+	  SSIS="No"
+				
+	  WSP="No"	
+	  />
+</ssip_releases>
+
