@@ -1,19 +1,23 @@
 ﻿{
+  "ID": "1", 
+  "FY": "2021",
   "version_number": "1.0",
   "release_number": "3.0.5.1",
   "build_number": "1.0.0.7",
-  "date": "",
-  "dll_path": "",
+  "date": "Feb. 25, 2021",
+  "dll_path": "\\BI\\QPP\\Releases\\3.0.5.1\\DLL\\",
   "dlls": [
-    "",
-    "",
-    ""
+    {
+      "dll_one": "QPPServices.dll",
+      "dll_two": "QPPModels.dll",
+      "dll_three": ""
+    }
   ],
-  "project": "",
-  "wsp_instructions": "",
-  "svc": "",
-  "web_config": "",
-  "database": "",
-  "ssis": "",
-  "wsp": ""
+  "project": "QPP",
+  "wsp_instructions": "Upload and activate new WSP(s) under \\BI\\QPP\\Releases\\3.0.5.1\\wsp from the, Code_Promotion build folder",
+  "svc": "NO",
+  "web_config": "NO",
+  "database": "YES",
+  "ssis": "NO",
+  "wsp": "NO"
 }

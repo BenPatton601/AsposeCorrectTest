@@ -65,7 +65,7 @@
   <ItemGroup>
     <Compile Include="AsposeExecSummWordObject.cs" />
     <Compile Include="SSIP_ExecSummDocGenerator.cs" />
-    <Compile Include="DocumentProcessor.cs" />
+    <Compile Include="AsposeDocumentGenerator.cs" />
     <Compile Include="GlobalDocumentSettings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BuildSSIP_Document.cs" />
